@@ -4,12 +4,24 @@
  */
 package computer10;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Noah Sitoy
  */
 public class NameInput {
     public static void main(String[] args) {
-        System.out.println("Welcome to My Computer 10 Files Repository!");
+        Scanner _input1 = new Scanner(System.in);
+        System.out.println("Enter Username:");
+        
+        String userName = _input1.nextLine().toLowerCase();
+        
+        if ("noah".equals(userName)){
+            System.out.println("Hello Noah! hahahha");
+        }
+        else if (!"Noah".equals(userName)){
+            System.out.println("Hello " + userName + " You are not Noah!");
+        }
     }
 }
