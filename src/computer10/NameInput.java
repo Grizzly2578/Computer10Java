@@ -15,12 +15,12 @@ public class NameInput {
         Scanner _input1 = new Scanner(System.in);
         System.out.println("Enter Username:");
         
-        String userName = _input1.nextLine().toLowerCase();
+        String userName = _input1.nextLine();
         
-        if ("noah".equals(userName)){
-            System.out.println("Hello Noah! hahahha");
+        if ("noah".equals(userName.toLowerCase())){
+            System.out.println("Hello Noah! hahahha you are the creator of this Code!");
         }
-        else if (!"Noah".equals(userName)){
+        else if (!"Noah".equals(userName.toLowerCase())){
             System.out.println("Hello " + userName + " You are not Noah!");
         }
     }
