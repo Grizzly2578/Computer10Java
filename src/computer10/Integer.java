@@ -24,6 +24,8 @@ public class Integer {
         double difference = num1 - num2; // Variable for the difference of the numbers!
         double quotient = num1 / num2; // Variable for the quotient of the numbers!
         double product = num1 * num2; // Variable for the product of the numbers!
+        _input1.close(); // Closed the inputstream to avoid resource leaks!
+        _input2.close(); // Closed the inputstream to avoid resource leaks!
         System.out.println("sum:"+ sum); // Display the output output of the sum
         System.out.println("difference:"+ difference); // Display the output output of the differnce!
         System.out.println("quotient:"+ quotient); // Display the output output of the quotient!
