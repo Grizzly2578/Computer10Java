@@ -9,22 +9,24 @@ import java.util.Scanner;
 /**
  *
  * @author Noah Sitoy
+ * @section Amethyst
+ * @grade 10
  */
 public class Integer {
     public static void main(String[] args) {
         Scanner _input1 = new Scanner(System.in);
         System.out.println("Your first Number:");
-        int num1 = _input1.nextInt();
+        int num1 = _input1.nextInt(); // Variable for the first number!
         Scanner _input2 = new Scanner(System.in);
         System.out.println("Your second Number:");
-        int num2 = _input2.nextInt();
-        double sum = num1 + num2;
-        double difference = num1 - num2;
-        double quotient = num1 / num2;
-        double product = num1 * num2;
-        System.out.println("sum:"+ sum);
-        System.out.println("difference:"+ difference);
-        System.out.println("quotient:"+ quotient);
-        System.out.println("product:" + product);
+        int num2 = _input2.nextInt(); // Variable for the second number!
+        double sum = num1 + num2; // Variable for the sum of the numbers!
+        double difference = num1 - num2; // Variable for the difference of the numbers!
+        double quotient = num1 / num2; // Variable for the quotient of the numbers!
+        double product = num1 * num2; // Variable for the product of the numbers!
+        System.out.println("sum:"+ sum); // Display the output output of the sum
+        System.out.println("difference:"+ difference); // Display the output output of the differnce!
+        System.out.println("quotient:"+ quotient); // Display the output output of the quotient!
+        System.out.println("product:" + product); // Display the output output of the product!
     }
 }
