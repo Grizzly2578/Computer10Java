@@ -16,10 +16,10 @@ public class Integer {
     public static void main(String[] args) {
         Scanner _input1 = new Scanner(System.in);
         System.out.println("Your first Number:");
-        int num1 = _input1.nextInt(); // Variable for the first number!
+        double num1 = _input1.nextDouble(); // Variable for the first number!
         Scanner _input2 = new Scanner(System.in);
         System.out.println("Your second Number:");
-        int num2 = _input2.nextInt(); // Variable for the second number!
+        double num2 = _input2.nextDouble(); // Variable for the second number!
         double sum = num1 + num2; // Variable for the sum of the numbers!
         double difference = num1 - num2; // Variable for the difference of the numbers!
         double quotient = num1 / num2; // Variable for the quotient of the numbers!
