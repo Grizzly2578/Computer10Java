@@ -6,6 +6,7 @@ package computer10;
 
 import java.util.Scanner;
 import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
 /**
  *
  * @author Noah Sitoy
@@ -25,7 +26,8 @@ public class Sections {
             Scanner _input1 = new Scanner(System.in);
             System.out.println("Enter a number!");
             String num1 = _input1.nextLine();
-             my_dict.get(num1);
+//            String = my_dict.get(num1);
+             
             System.out.println(num1);
             break;
             
