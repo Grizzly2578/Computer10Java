@@ -1,1 +1,1 @@
-This is where I upload my Crazy Computer 10 projects just like the CRAZY ONE LINER "[Sections.java"](https://github.com/Grizzly2578/Computer10Java/blob/main/src/computer10/Sections.java)! I was challenged to create a program with really small number of lines!
+This is where I upload my Crazy Computer 10 projects just like the CRAZY ONE LINER "[Sections.java]"(https://github.com/Grizzly2578/Computer10Java/blob/main/src/computer10/Sections.java)! I was challenged to create a program with really small number of lines!
