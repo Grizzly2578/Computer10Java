@@ -10,8 +10,8 @@ import java.util.Scanner;
  *
  * @author Noah Sitoy
  */
-public class IF_Sections {
-    public static void main (String[] args) {
+public class Switch_Sections{
+    public static void main(String[]args){
         while(true){
             Scanner _input1=new Scanner(System.in);
             System.out.println("Enter a number");
