@@ -40,7 +40,6 @@ public class IF_Sections {
             if (num1.equals("8")) {
                 System.out.println("10 - Amethyst");
             }
-            continue;
         }
     }
 }

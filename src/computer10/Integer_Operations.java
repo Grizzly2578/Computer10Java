@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @section Amethyst
  * @grade 10
  */
-public class Integer {
+public class Integer_Operations {
     public static void main(String[] args) {
         Scanner _input1 = new Scanner(System.in);
         System.out.println("Your first Number:");
