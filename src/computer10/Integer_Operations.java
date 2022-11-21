@@ -1,20 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+//Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
 package computer10;
-
 import java.util.Scanner;
-
-/**
- *
- * @author Noah Sitoy
- * @section Amethyst
- * @grade 10
- */
 public class Integer_Operations {
     public static void main(String[] args) {
-        Scanner _input1 = new Scanner(System.in);
+        var _input1 = new Scanner(System.in);
         System.out.println("Your first Number:");
         double num1 = _input1.nextDouble(); // Variable for the first number!
         Scanner _input2 = new Scanner(System.in);

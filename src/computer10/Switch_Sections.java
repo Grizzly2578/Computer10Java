@@ -1,15 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+//Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
 package computer10;
-
 import java.util.Scanner;
-
-/**
- *
- * @author Noah Sitoy
- */
 public class Switch_Sections{
     public static void main(String[]args){
         while(true){
