@@ -29,8 +29,6 @@ public class Switch_Sections{
                 case 10->System.out.println("11 - Crysolite");
                 case 11->System.out.println("Ruby");
                 case 12->System.out.println("12 - Chalcedony");
-                default->{
-                }
             }
         }
     }
