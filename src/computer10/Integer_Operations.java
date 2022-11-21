@@ -1,4 +1,3 @@
-//Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
 package computer10;
 import java.util.Scanner;
 public class Integer_Operations {
