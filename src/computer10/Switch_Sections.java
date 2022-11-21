@@ -24,9 +24,9 @@ public class Switch_Sections{
                 case"5"->System.out.println("Jasper");
                 case"6"->System.out.println("9 - Emerald");
                 case"7"->System.out.println("Jade");
-                case"8"->System.out.println("7 - Amethyst");
+                case"8"->System.out.println("10 - Amethyst");
                 case"9"->System.out.println("Beryl");
-                case"10"->System.out.println("10 - Crysolite");
+                case"10"->System.out.println("11 - Crysolite");
                 case"11"->System.out.println("Ruby");
                 case"12"->System.out.println("12 - Chalcedony");
                 default->{
