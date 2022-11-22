@@ -1,0 +1,1 @@
+package computer10;import java.util.Scanner;public class close_on_7{public static void main(String[]args){while(true){var input1=new Scanner(System.in);int num = input1.nextInt();System.out.println("The program is still running!");switch(num){case 7 -> System.exit(0);default -> System.out.println("Program Is still running");}}}}
