@@ -2,7 +2,7 @@ package computer10;
 
 import java.util.Scanner;
 
-public class close_on_7 {
+public class close_on_17 {
 
     public static void main(String[] args) {
         while (true) {
@@ -34,4 +34,10 @@ public class close_on_7 {
                     System.out.println("Ruby");
                 case 12 ->
                     System.out.println("12 - Chalcedony");
-                case  17->System.exit(0);default->System.out.println("Unknown Section");}}}}
+                case  17->System.exit(0);
+                default->
+                    System.out.println("Unknown Section");
+            }
+        }
+    }
+}
