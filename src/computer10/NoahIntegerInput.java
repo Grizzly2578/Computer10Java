@@ -1,6 +1,5 @@
 package computer10;
 
-import java.util.Arrays;
 import javax.swing.JOptionPane;
 
 public class NoahIntegerInput {
